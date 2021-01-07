@@ -15,7 +15,9 @@ If you want to add something in list - just open the PR.
 ### Models
 
 [EN] https://rusvectores.org/en/models/ 
-[EN] https://github.com/buriy/spacy-ru/releases/tag/v2.3_beta - language models for SpaCy. Note for repo - pay attention to version branches and releases, not to master branch. README.md in repo in master only on RU language.
+
+[EN] https://github.com/buriy/spacy-ru/releases/tag/v2.3_beta - language models for SpaCy. Note for repo - pay attention to version branches and releases, not to master branch. README.md in repo in master only on RU language
+
 [EN] https://github.com/natasha/natasha-spacy - Also SpaCy Ru language model
 
 ### Datasets
@@ -25,6 +27,7 @@ If you want to add something in list - just open the PR.
 
 ### Articles about work with Russian Language in NLP
 [EN] https://primer.ai/blog/Russian-Natural-Language-Processing/
+
 [RU] https://habr.com/ru/post/516098/#natasha - About Natasha project
 
 ### Videos
