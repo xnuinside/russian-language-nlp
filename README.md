@@ -7,9 +7,12 @@ Because a lot of pages that a refer to  contains only RU docs or writed on RU la
 
 If you want to add something in list - just open the PR. 
 
+EN/RU - languages of documentation 
+
 ### Tools
 
 [EN] https://github.com/natasha/natasha - Natasha. Natasha solves basic NLP tasks for Russian language: tokenization, sentence segmentation, word embedding, morphology tagging, lemmatization, phrase normalization, syntax parsing, NER tagging, fact extraction. 
+[EN] https://github.com/bureaucratic-labs/dostoevsky - Sentiment analysis library for russian language
 
 
 ### Models
