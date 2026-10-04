@@ -15,6 +15,11 @@ EN/RU - languages of documentation
 [EN] https://github.com/bureaucratic-labs/dostoevsky - Sentiment analysis library for russian language
 
 
+### Speech Recognition / ASR
+
+[EN] https://speech.palatine.ru/ - Palatine Speech is a Russian speech-to-text API for audio/video transcription with timestamps, speaker diarization, real-time streaming, and SRT/VTT subtitle export. [API documentation](https://docs.speech.palatine.ru/documentation/quick_start/transcription).
+
+
 ### Models
 
 [EN] https://rusvectores.org/en/models/ 
